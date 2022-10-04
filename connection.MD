@@ -14,7 +14,7 @@ The data lines goes to this handy board...
 ![image](https://user-images.githubusercontent.com/5520281/193776864-2ee2d379-407a-4aad-9287-d51d039ad0e0.png)
 
 This board is set up to be a transparent PHY media converter. Do not change any of the jumpers or download new software into this or it will probably not work anymore. 
-The USB port is just for power and can go into a computer or a wall wort. The network port is a standard RJ45 connector running 1000BaseT which you should connect to 
+The USB port is just for power and can go into a computer or a wall wort. The `LED0` will light when the board sees the V800 connected at the other end, and the `LED1` will blink when the board recieves packets from the V800 (which is ALWAYS, from the moment that it powers up). The network port is a standard RJ45 connector running 1000BaseT which you should connect to 
 the host computer using a direct Cat6 cable (no switches or hubs or routers). 
 
 The host computer really needs a full 1000BaseT (1 Gbs) network port or else it will miss packets. If the computer starts to studder when you plug into the network cable, 
@@ -26,7 +26,7 @@ The network adapter on the host computer must be set up with...
     MASK: 255.255.255.0
     GATEWAY: 169.254.0.1
 
-(Mask and gateway don't actually mater as long as they are valid)
+(Mask and gateway don't actually matter as long as they are valid)
 
 To set the IP address on Windows, you can go into Control Panel->View Network Connections and then right click on
 "Properties->IP Version 4->Properties" and then "Us the following".
