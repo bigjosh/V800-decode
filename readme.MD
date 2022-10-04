@@ -7,7 +7,7 @@ Here is a screenshot...
 
 ![](screenshot.png)   
 
-This is the view of a flat wall. Counter intuitively, the source is at the TOP of the frame and the wall looks bent because, from the unit's point of view, the wall gets farther away as it moves away from the centerline. 
+This is the view of a flat wall with my monitor obstructing to the left. Counter intuitively, the source is at the TOP of the frame and the wall looks bent because, from the unit's point of view, the wall gets farther away as it moves away from the centerline. 
 
 All the meat is in the `renderPacket()` function so start there. I make no promises that parsing I've done is at all correct! It clearly is not! 
 
