@@ -13,6 +13,9 @@ All the meat is in the `renderPacket()` function so start there. I make no promi
 
 Also note that there is a field for what looks like a laser index number, and from the data it seems like there are 8 of them. Looking at the data visually it seems you need to apply an offset to each laser.
 
+Here are my notes based on looking at about a trillion packets with wireshark... (but you should not trust these at all!)
+![](packet_notes.png)
+
 Please let me know if you figure this out!
 
 (Created with InjelliJ Community Edition) 

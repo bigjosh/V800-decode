@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d15c2f49-7253-488d-bf00-0e67fc2b8672" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/packets/flat_05m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packets/flat_10m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packets/flat_20m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/josh/Velodyne/PacketVisualizer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/josh/Velodyne/VelodyneReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/josh/Velodyne/VelodyneReader.java" afterDir="false" />
-    </list>
+    <list default="true" id="d15c2f49-7253-488d-bf00-0e67fc2b8672" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
