@@ -9,7 +9,7 @@ in wrong and the unit starts smoking then I will not feel bad for you.
 The data connector is similarly janky and you should try not to unplug it. If you do, note that it does not really fit so you have to be very careful not to bend the 
 little pins inside the socket on the unit when you insert the plug. 
 
-The data lines goes to this handy board...
+The data lines goes to this [handy board](https://www.ti.com/product/DP83TG720EVM-MC/part-details/DP83TG720EVM-MC)...
 
 ![image](https://user-images.githubusercontent.com/5520281/193776864-2ee2d379-407a-4aad-9287-d51d039ad0e0.png)
 
